@@ -1,4 +1,4 @@
-# Implemntation of Image Style Transfer Using Convolutional Neural Networks using Pytorch
+# Implementation of Image Style Transfer Using Convolutional Neural Networks using Pytorch
 
 ## Style Transfer with Deep Neural Networks
 
@@ -21,3 +21,30 @@ In this notebook, we'll use a pre-trained **VGG19 Net** to extract content or st
 
 ### Results from the Notebook
 
+![image](https://user-images.githubusercontent.com/52796258/125572547-0fe979ee-43b4-4a66-b246-ad474d76c2ab.png)
+
+![image](https://user-images.githubusercontent.com/52796258/125572600-10c59e9a-d6af-4107-ae06-694534152118.png)
+
+### Results from the Paper
+
+![image](https://user-images.githubusercontent.com/52796258/125572846-bb29c915-52f3-48dd-9d6d-e1540448de09.png)
+
+<h2 align= "left"><b>Project Maintainer(s)</b></h2>
+
+<table>
+<tr align="center">
+  
+  <td>
+  
+Suvodeep Sinha
+
+<p align="center">
+<img src = "https://avatars1.githubusercontent.com/u/52796258"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/Suvoo"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/suvodeep-sinha-59652418b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
