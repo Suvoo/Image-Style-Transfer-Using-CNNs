@@ -17,7 +17,10 @@ An example is shown below, where the content image is of a cat, and the style im
 
 <img src='notebook_ims/style_tx_cat.png' width=80% />
 
-In this notebook, we'll use a pre-trained **VGG19 Net** to extract content or style features from a passed in image.
+This notebook will use a pre-trained **VGG19 Net** to extract content or style features from a passed in image.
+
+![image](https://user-images.githubusercontent.com/52796258/125573551-241921a3-f3fa-41ff-8cb5-e1a284f9f211.png)
+
 
 ### Results from the Notebook
 
