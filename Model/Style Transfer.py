@@ -1,6 +1,4 @@
 # import resources
-%matplotlib inline
-
 from PIL import Image
 from io import BytesIO
 import matplotlib.pyplot as plt
