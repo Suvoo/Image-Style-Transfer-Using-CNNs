@@ -3,4 +3,4 @@ torch==1.9.0+cu111
 requests==2.25.1
 numpy==1.19.4
 matplotlib==3.3.3
-Pillow==8.3.1
+Pillow==8.3.2
